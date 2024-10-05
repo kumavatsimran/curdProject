@@ -1,0 +1,48 @@
+{
+  "user": [
+    {
+      "id": "b162",
+      "name": "Tiger Rivas",
+      "email": "lelykamal@mailinator.com",
+      "gender": "femal",
+      "city": "surat",
+      "hobby": "dance"
+    },
+    {
+      "id": "cf07",
+      "name": "Patiencepatell",
+      "email": "gyximygato@mailinator.com",
+      "hobby": "music",
+      "gender": "male",
+      "city": "baruch"
+    },
+    {
+      "id": "2882",
+      "name": "Ariana Knowles xcvb",
+      "email": "novekic@mailinator.com",
+      "gender": "femal",
+      "city": "ahemdabad",
+      "hobby": [
+        "dance"
+      ]
+    },
+    {
+      "id": "8c96",
+      "name": "Jael Silva",
+      "email": "hykyd@mailinator.com",
+      "hobby": "music",
+      "gender": "male",
+      "city": "surat"
+    },
+    {
+      "id": "4448",
+      "name": "Yetta Duran",
+      "email": "teme@mailinator.com",
+      "hobby": "music",
+      "gender": "male",
+      "city": "surat"
+    }
+  ],
+  "comments": [],
+  "profile": {}
+}
